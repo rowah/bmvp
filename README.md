@@ -31,4 +31,3 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 - Source: https://github.com/phoenixframework/phoenix -->
 
 # dev_finder: find a dev quick and easy!
-# dev_finder
